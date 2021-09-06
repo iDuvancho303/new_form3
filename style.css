@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.75;
+    background-color: #0076bd;
+    width: 500px;
+    margin: auto;
+}
+
+form {
+    background-color: whitesmoke;
+    padding: 2px 2px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+
+}
+
+.submit-button {
+    color: white;
+    background-color: #82BC41;
+    width: 200px;
+    padding: 5px 5px;
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+.input-headings {
+    margin: auto;
+    padding: 30px;
+}
