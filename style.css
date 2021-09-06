@@ -1,6 +1,6 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.75;
+    line-height: 1.50;
     background-color: #0076bd;
     width: 500px;
     margin: auto;
@@ -27,4 +27,23 @@ form {
 .input-headings {
     margin: auto;
     padding: 30px;
+}
+
+.form-inputs {
+    display: block;
+    width: 300px;
+    height: 1.5rem;
+    padding: 0.20rem 0.75rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background-color:  white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
 }
